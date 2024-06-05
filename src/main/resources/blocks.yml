@@ -1,0 +1,5 @@
+blocks: #More health, longer it takes
+  STONE:
+    health: 8
+  COAL_ORE:
+    health: 22
